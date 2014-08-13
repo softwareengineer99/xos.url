@@ -1,0 +1,27 @@
+{
+  "name": "xos.url",
+  "version": "1.0.1",
+  "description": "URL parser for xos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/softwareengineer99/xos.url.git"
+  },
+  "keywords": [
+    "url",
+    "parser",
+    "xos"
+  ],
+  "author": "Frank Mashraqi",
+  "license": "Free for non-commercial use",
+  "bugs": {
+    "url": "https://github.com/softwareengineer99/xos.url/issues"
+  },
+  "homepage": "https://github.com/softwareengineer99/xos.url",
+  "dependencies": {
+    "qs": "~1.2.1"
+  }
+}
