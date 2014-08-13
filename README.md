@@ -25,7 +25,7 @@ Output of the above snippet is:
   query_string: 'para=value&para2=value2&user[name]=myusername&user[password]=mypassword&another[nested][object][key]=nestedobjectvalue',
   anchor: 'anchor&anchorpart',
   query: 
-   { para: 'value',
-     para2: 'value2',
-     user: { name: 'myusername', password: 'mypassword' },
-     another: { nested: [Object] } } }
+  { para: 'value',
+   para2: 'value2',
+   user: { name: 'myusername', password: 'mypassword' },
+   another: { nested: [Object] } } }

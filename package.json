@@ -1,6 +1,6 @@
 {
   "name": "xos.url",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "URL parser for xos",
   "main": "index.js",
   "scripts": {
