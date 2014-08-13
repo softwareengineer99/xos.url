@@ -1,3 +1,30 @@
+# XOS URL Parser
+
+## Introduction
+
+Parses a URL and the contained query string into an object
+
+  - source
+  - protocol
+  - authority
+  - credentials
+  - username
+  - password
+  - host
+  - port
+  - relative
+  - path
+  - directory
+  - file
+  - query_string
+  - query (object)
+  - anchor
+
+## Installation
+```bash
+npm install xos.url
+```
+
 ## Usage
 Simply require and instantiate a URL
 ```javascript
